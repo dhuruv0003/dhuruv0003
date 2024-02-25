@@ -1,6 +1,8 @@
+![Untitled design](https://github.com/dhuruv0003/dhuruv0003/assets/116896454/914d2284-37bd-4fdf-a75c-5c5cdc9408a5)
 
 <h1 align="center">Hi 👋, I'm Dhuruv Kumar</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
+
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhuruv0003&label=Profile%20views&color=0e75b6&style=flat" alt="dhuruv0003" /> </p>
