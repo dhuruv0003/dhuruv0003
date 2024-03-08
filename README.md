@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Quora Web Post](https://nine-quora-post-3.onrender.com/posts)
 
-- 🌱 I’m currently learning **MongoDB with express.js**
+- 🌱 I’m currently learning **React.js**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/dhuruv-kumar-269819241/details/projects/](https://www.linkedin.com/in/dhuruv-kumar-269819241/details/projects/)
 
