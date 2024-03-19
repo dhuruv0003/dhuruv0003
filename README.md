@@ -1,4 +1,5 @@
-![Untitled design](https://github.com/dhuruv0003/dhuruv0003/assets/116896454/bc6c35e3-71ef-4998-8465-957d44da65ae)
+![ReactJS](https://github.com/dhuruv0003/dhuruv0003/assets/116896454/ac39d32d-f8a6-4056-a029-a47df177704f)
+
 
 
 <h1 align="center">Hi 👋, I'm Dhuruv Kumar.</h1>
