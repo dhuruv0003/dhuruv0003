@@ -1,4 +1,5 @@
-![Untitled design](https://github.com/dhuruv0003/dhuruv0003/assets/116896454/914d2284-37bd-4fdf-a75c-5c5cdc9408a5)
+![Untitled design](![ReactJS](https://github.com/dhuruv0003/dhuruv0003/assets/116896454/6a4fc553-dc6e-4ce3-9021-d4108bc89767)
+)
 
 <h1 align="center">Hi 👋, I'm Dhuruv Kumar.</h1>
 <h3 align="center">A passionate MERN Stack developer from India.</h3>
