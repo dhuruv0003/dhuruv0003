@@ -1,7 +1,5 @@
-![Untitled design](![Untitled design](https://github.com/dhuruv0003/dhuruv0003/assets/116896454/63348dbf-503e-442d-9921-37c130cacb6b)
-)
-)
-)
+![Untitled design](https://github.com/dhuruv0003/dhuruv0003/assets/116896454/bc6c35e3-71ef-4998-8465-957d44da65ae)
+
 
 <h1 align="center">Hi 👋, I'm Dhuruv Kumar.</h1>
 <h3 align="center">A passionate MERN Stack developer from India.</h3>
