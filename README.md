@@ -30,5 +30,5 @@
 
 <p>&nbsp;<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=dhuruv0003&theme=yellowdark&hide_border=true&border_radius=9.9&card_width=509" alt="GitHub Streak" /></a></p>
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhuruv0003&show_icons=true&locale=en&layout=compact" alt="dhuruv0003" /></p> -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhuruv0003&show_icons=true&locale=en&layout=compact" alt="dhuruv0003" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhuruv0003&" alt="dhuruv0003" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhuruv0003&" alt="dhuruv0003" /></p>
