@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhuruv0003&label=Profile%20views&color=0e75b6&style=flat" alt="dhuruv0003" /> </p>
 
-- 🔭 I’m currently working on [E-Commerce Web Application](https://course-planner-plum.vercel.app/)
+- 🔭 I’m currently working on [E-Commerce Web Application]([https://course-planner-plum.vercel.app/](https://e-commerce-web-app-ten.vercel.app/))
 - 🌱 I’m currently learning **React.js**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/dhuruv-kumar-269819241/details/projects/](https://www.linkedin.com/in/dhuruv-kumar-269819241/details/projects/)
