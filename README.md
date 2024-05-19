@@ -31,5 +31,6 @@
 <br/>
 <p>&nbsp;<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=dhuruv0003&theme=radical" alt="GitHub Streak" /></a></p>
 <p>&nbsp;<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=dhuruv0003&theme=radical" alt="GitHub Streak" /></a></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=dhuruv0003)](https://git.io/streak-stats)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhuruv0003&show_icons=true&locale=en&layout=compact" alt="dhuruv0003" /></p>
 
