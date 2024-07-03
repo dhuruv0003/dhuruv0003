@@ -31,5 +31,5 @@
 <br/>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=dhuruv0003&theme=radical" alt="GitHub Streak" /></a>
 <br/>
-<!-- // <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhuruv0003&show_icons=true&locale=en&layout=compact" alt="dhuruv0003" /></p> -->
+// <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhuruv0003&show_icons=true&locale=en&layout=compact" alt="dhuruv0003" /></p>
 
