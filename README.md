@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhuruv0003&label=Profile%20views&color=0e75b6&style=flat" alt="dhuruv0003" /> </p>
 
-- 🔭 I’m currently working on a MERN Stack Application Doctor Applicaion Managemant System
+- 🔭 I’m currently working on a MERN Stack Application Doctor Application Managemant System
 - 🌱 I’m currently learning Authenticatin, Authoraization and File Upload in Backend
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/dhuruv-kumar-269819241/details/projects/](https://www.linkedin.com/in/dhuruv-kumar-269819241/details/projects/)
