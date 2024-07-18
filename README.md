@@ -8,7 +8,6 @@
 
 - 🔭 I’m currently working on a MERN Stack Application Doctor Application Managemant System
 - 🌱 I’m currently learning Authenticatin, Authoraization and File Upload in Backend
-
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/dhuruv-kumar-269819241/details/projects/](https://www.linkedin.com/in/dhuruv-kumar-269819241/details/projects/)
 
 - 📫 How to reach me **dhruvdk02@gmail.com**
