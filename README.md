@@ -1,7 +1,6 @@
 ![ReactJS](https://github.com/dhuruv0003/dhuruv0003/assets/116896454/ac39d32d-f8a6-4056-a029-a47df177704f)
 
 <h1 align="center">Hi 👋, I'm Dhuruv Kumar.</h1>
-
 <h3 align="center">A passionate MERN Stack developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhuruv0003&label=Profile%20views&color=0e75b6&style=flat" alt="dhuruv0003" /> </p>
